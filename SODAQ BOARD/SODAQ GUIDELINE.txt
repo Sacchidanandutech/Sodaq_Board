@@ -1,0 +1,4 @@
+Go to the following link to learn about getting started with sodaq board and installing arduino core 
+https://support.sodaq.com/Boards/
+
+by selecting the board in webpage learn more about how to use the sodaq explorer board for LoRaWAN 
